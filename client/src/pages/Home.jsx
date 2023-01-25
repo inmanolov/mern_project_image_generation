@@ -59,8 +59,6 @@ const Home = () => {
                 setSearchedResults(searchResult);
             }, 500),
         );
-
-        console.log(searchedResults);
     }
 
     return(
